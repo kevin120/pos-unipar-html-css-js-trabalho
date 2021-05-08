@@ -1,0 +1,22 @@
+header.jumbotron {
+    margin: 0;
+    background-color: antiquewhite;
+}
+
+footer.jumbotron {
+    margin: 0;
+    padding: 20px;
+}
+
+main {
+    padding: 20px 0;
+}
+
+.input {
+    margin-bottom: 10px;
+    margin-right: 10px;
+}
+
+section #carrinho, #produtos {
+    padding: 20px;
+}
